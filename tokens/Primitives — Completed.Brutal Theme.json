@@ -287,7 +287,7 @@
     "brand": {
       "radish": {
         "$type": "color",
-        "$value": "#ffbe16",
+        "$value": "{color.gray.50}",
         "$description": "",
         "$extensions": {
           "com.figma": {
